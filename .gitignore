@@ -1,0 +1,9 @@
+# Configuration
+.vscode/
+
+# Build
+builddir/
+
+# Keep only the .wrap files
+subprojects/*
+!subprojects/*.wrap
